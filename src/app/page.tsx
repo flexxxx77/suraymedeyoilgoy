@@ -38,7 +38,7 @@ export default function Home() {
 
       {/* 🫶 Trust section */}
       <div className="z-10 mt-20 text-sm text-gray-500 text-center">
-        <p>"Бид одоо цагт хийж ирээдүйг бүтээн"</p>
+        <p>"Бид одоо цагт хийж ирээдүйг бүтээнэ."</p>
       </div>
     </main>
   );
